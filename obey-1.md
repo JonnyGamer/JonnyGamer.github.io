@@ -1,17 +1,17 @@
-[Chapter 0000](https://jonnygamer.github.io/Chapter0000) - Zed
+[Chapter 0000](https://jonnygamer.github.io/Chapters/Chapter0000) - Zed
 
-[Chapter 1](https://jonnygamer.github.io/Chapter1) - The Beginning
+[Chapter 1](https://jonnygamer.github.io/Chapters/Chapter1) - The Beginning
 
-[Chapter 2](https://jonnygamer.github.io/Chapter2) - Prophecies of the First Age
+[Chapter 2](https://jonnygamer.github.io/Chapters/Chapter2) - Prophecies of the First Age
 
-[Chapter 3](https://jonnygamer.github.io/Chapter3) - History of the First Age
+[Chapter 3](https://jonnygamer.github.io/Chapters/Chapter3) - History of the First Age
 
-[Chapter 8](https://jonnygamer.github.io/Chapter8) - The Great Evil of the Second Age
+[Chapter 8](https://jonnygamer.github.io/Chapters/Chapter8) - The Great Evil of the Second Age
 
-[Chapter 38](https://jonnygamer.github.io/Chapter38) - The Tale of isMMsi
+[Chapter 38](https://jonnygamer.github.io/Chapters/Chapter38) - The Tale of isMMsi
 
-[Chapter 67](https://jonnygamer.github.io/Chapter67) - CChpater of Many Lenny Bats
+[Chapter 67](https://jonnygamer.github.io/Chapters/Chapter67) - CChpater of Many Lenny Bats
 
-[Chapter 900](https://jonnygamer.github.io/Chapter900) - On The Descriptions of Grass
+[Chapter 900](https://jonnygamer.github.io/Chapters/Chapter900) - On The Descriptions of Grass
 
-[Chapter 37332](https://jonnygamer.github.io/Chapter37332) - On Computer Languages
+[Chapter 37332](https://jonnygamer.github.io/Chapters/Chapter37332) - On Computer Languages
