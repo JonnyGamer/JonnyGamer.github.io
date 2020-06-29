@@ -1,6 +1,12 @@
 [Chapter 0000](https://jonnygamer.github.io/Chapter0000) - Zed
 
+[Chapter 1](https://jonnygamer.github.io/Chapter1) - The Beginning
+
+[Chapter 2](https://jonnygamer.github.io/Chapter2) - Prophecies of the First Age
+
 [Chapter 3](https://jonnygamer.github.io/Chapter3) - History of the First Age
+
+[Chapter 8](https://jonnygamer.github.io/Chapter8) - The Great Evil of the Second Age
 
 [Chapter 38](https://jonnygamer.github.io/Chapter38) - The Tale of isMMsi
 
