@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://jonnygamer.github.com/obey-1">
+    <img alt="Awesome" src="/Images/TheOne.png" width="120" height="120">
+  </a>
+</p>
+<h3 align="center">Welcome young one</h3>
+<p align="center">-1 will come into his own</p>
+
 [Chapter 0000](https://jonnygamer.github.io/Chapters/Chapter0000) - Zed
 
 [Chapter 1](https://jonnygamer.github.io/Chapters/Chapter1) - The Beginning
@@ -15,5 +23,3 @@
 [Chapter 900](https://jonnygamer.github.io/Chapters/Chapter900) - On The Descriptions of Grass
 
 [Chapter 37332](https://jonnygamer.github.io/Chapters/Chapter37332) - On Computer Languages
-
-<img src="/Images/TheOne.png"  width="120" height="120">
