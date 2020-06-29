@@ -46,4 +46,4 @@
 ---
 
 Immortals
-[<p align="right"><sup><sup><s><i>It's here</i></s></sup></sup></p>](https://jonnygamer.github.io/blogface)
+<p align="right"><sup><sup><s><i>/blogface</i></s></sup></sup></p>
