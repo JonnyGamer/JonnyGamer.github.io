@@ -25,9 +25,8 @@
 
 # Welcome to my Blog!
 Check out the latest in tech, math, and puzzles.<br>
-Choose a category, or look below for all the new contect.
+Choose a category, or look below for all the new contect.<br>
 
----
 # List of Posts <sub><sup>Ordered by Newest</sup></sub>
 
 
