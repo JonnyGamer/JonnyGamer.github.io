@@ -1,6 +1,8 @@
 # *blogface*
 ###### welcome to blogface, a trifle of blogging for bloggs.<br>We do our best here to keep things -1, so please spend tips<br>quote from the almighty: `cake is arriving soon` `@-1` for supprot<br>If you are ever in trouble, call `jelly -1` for haps.<br>**EMBOLDEN YOURSELF** it's here
-<p align="right"><h6>I try to update daily, but when I forget, -1 will handle it appropriately.<br>                                to the max// please pardon us, it's -1 you're seeing<br>                                  wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>                                        -1</h6></p>
+
+
+<h6 align="right"> I try to update daily, but when I forget, -1 will handle it appropriately.<br>                                to the max// please pardon us, it's -1 you're seeing<br>                                  wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>                                        -1</h6>
 
 ---
 
@@ -29,7 +31,7 @@ How magestic of us. -1 thinks so too. Today I created this website. I'm trying t
 I'll really have to get support with the team. Later Today we learned many great things. Such as the qualities of greatness. Such as -1 &c. Never forget.
 We never forget this. Later, you might be reading this page, and you will be very surprised. It will even surprise me! Suprise us in the end! the end is nigh.
 We always remember to think about this important day. Jun 28th was a massive day. back in history, -1 even ––––1ed on that historic day. 
-Doom is here. DOOM
+Doom is here. DOOM.
 
 ---
 
