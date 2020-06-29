@@ -6,6 +6,9 @@
 <h3 align="center">Welcome young one</h3>
 <p align="center">-1 will come into his own</p>
 
+---
+<h3 align="center">The Great Book of CHEINSTTROARLY</h3>
+
 [Chapter 0000](https://jonnygamer.github.io/Chapters/Chapter0000) - Zed
 
 [Chapter 1](https://jonnygamer.github.io/Chapters/Chapter1) - The Beginning
@@ -23,3 +26,7 @@
 [Chapter 900](https://jonnygamer.github.io/Chapters/Chapter900) - On The Descriptions of Grass
 
 [Chapter 37332](https://jonnygamer.github.io/Chapters/Chapter37332) - On Computer Languages
+
+---
+
+<p align="right"><sup><sup><s><i>It's here</i></s></sup></sup></p>
