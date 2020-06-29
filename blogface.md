@@ -8,7 +8,7 @@ wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
 
 ---
 
-## Jun 29, 2020
+## Jun 29, 2020 <sub><sup>this is today</sup></sub></p>
     Yo check it out, I'm setting up my website.
 I learned how to use Markdown and some of HTML. Secret -1s await. I must make a unique emoji `:-1:` Greatness AwaitS.
 Testing [here](https://jonnygamer.github.io/mazejam). Throw us -1-1-1 <sub><sup>`inline elements`</sup></sub> WOw that was cool.
@@ -28,7 +28,7 @@ However, we must take leave and travel hither this very instant. So long, farewe
 
 ---
 
-## Jun 28, 2020
+## Jun 28, 2020 <sub><sup>day the first</sup></sub>
     -1 days ahead of Jun 29th. I'm currently writing this a long long time ago. I had to travel back in time to be able to do this.
 How magestic of us. -1 thinks so too. Today I created this website. I'm trying to make it a custom domain `jonp.io` however, some dude is using it elsewhere.
 I'll really have to get support with the team. Later Today we learned many great things. Such as the qualities of greatness. Such as -1 &c. Never forget.
