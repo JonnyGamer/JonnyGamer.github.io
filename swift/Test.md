@@ -29,7 +29,7 @@ But I will attempt to make one of size 1
 ___
 ## Closure Example
 Here is a closure passing 1 parameter, and returning one value:
-```
+```swift
 let foo: (Int) -> Int = { $0 }
 type(of: foo)
 let a = foo(5)
@@ -38,7 +38,7 @@ As you can see, the parameter is of type `(Int)`
 ___
 ## Generic Struct Example
 Here is a generic struct with the name of `U+200B` the zero width character. And one attribute named `O`
-```
+```swift
 struct ​<T> {
     var O: T
     init(_ o: T) { O = o }
@@ -51,7 +51,7 @@ type(of: foo) // this prints <Int>
 This is very close to what I'm looking for. However, it is a pain to have to paste the Zero Width Character.. And it's also extremely unreadable and confusing. Also, it the attribute is not a Zero, but a Capital O. You can copy/paste this code and it will work.
 ___
 # Generic Enum Example
-```
+```swift
 enum Foo<T> {
     case o(T)
     var O: T {
