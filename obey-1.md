@@ -1,4 +1,4 @@
-[Chapter 0000](Chapter0000) - Zed
+[Chapter 0000](apple.com) - Zed
 
 [Chapter 3](jonnygamer.github.io/Chapter3) - History of the First Age
 
