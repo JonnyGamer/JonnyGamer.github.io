@@ -1,9 +1,17 @@
+<p align="left">
+  <a href="https://jonnygamer.github.io/swift">
+    <img alt="Back" src="/Images/Back.jpg" width="120">
+  </a>
+</p>
+
+
 Bug **>** Swift **>** Enum **>** String Protocol
+
 ___
 
 I was attempting to create an enumeration in which all its elements were file names, and I stumbled across something interesting. Like so:
 
-```
+```swift
 enum FileNames: String {
      case main = #file
 }
@@ -14,7 +22,7 @@ This resulted in an internal error. (Segmentation Fault: 11)
 ___
 I was able to figure how to get an actual error message:
 
-```
+```swift
 enum Foo: String {
     case one = "\(1)"
 }
@@ -33,7 +41,7 @@ ___
 # Color Literals Don't Work
 
 I thought they did, but I made a mistake. It also causes the same internal error.
-```
+```swift
 import UIKit
 
 enum ColorEnum: UIColor {
@@ -54,14 +62,16 @@ ___
 
 These also crash the compiler.
 
-```
+```swift
 enum Foo: String? {
     case breaks = nil
 }
 ```
 ___
 23 Characters of Mass Destruction
-```enum I:Int?{case a=nil}```
+```swift
+enum I:Int?{case a=nil}
+```
 ___
 
 # Bug Fixed
