@@ -14,13 +14,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="Math" src="/Images/Math.jpg" width="200">
-</p>
 
-<p align="center">
-  <img alt="Puzzles" src="/Images/Puzzles.jpg" width="200">
-</p>
+<p align="center"> <img src="/Images/Math.jpg"  width="200"> </p>
+
+<p align="center"> <img src="/Images/Puzzles.jpg"  width="200"> </p>
 
 <br>
 
