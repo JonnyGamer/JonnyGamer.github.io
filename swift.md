@@ -5,7 +5,6 @@
 </p>
 
 # Swift Blog
-Welcome to my Swift Blog! Here's what's new
 
 <a href="https://jonnygamer.github.io/swift/Test">
   <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
