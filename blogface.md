@@ -1,6 +1,6 @@
 # *blogface*
 ###### welcome to blogface, a trifle of blogging for bloggs.<br>We do our best here to keep things -1, so please spend tips<br>quote from the almighty: `cake is arriving soon` `@-1` for supprot<br>If you are ever in trouble, call `jelly -1` for haps.<br>**EMBOLDEN YOURSELF** it's here
-###### <p align="right">I try to update daily, but when I forget, -1 will handle it appropriately.<br>                                to the max// please pardon us, it's -1 you're seeing<br>                                  wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>                                        -1</p>
+<p align="right"><h6>I try to update daily, but when I forget, -1 will handle it appropriately.<br>                                to the max// please pardon us, it's -1 you're seeing<br>                                  wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>                                        -1</h6></p>
 
 ---
 
