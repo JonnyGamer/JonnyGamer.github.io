@@ -18,7 +18,7 @@ I might make a copy/paste button for it. Or you can `Copy this ->​<-`. Now you
     I've been tabbed,, here marks the place where I can tab things. I know you really enjoy reading things such as these.
 Perfeccion (irrigardless of supposition) I have now been doing events. :trollface: panels
 <img alt="Awesome" src="/Images/TheOne.png" width="20" height="20"> have you ever heard the story of subnet the wise? You have? Very good of you.
-Today we will talk about (this)[https//:jonnygamer.github.io/Test]. Single element tuples are of utmost importance. I simply must use them.
+Today we will talk about [this](https//:jonnygamer.github.io/Test). Single element tuples are of utmost importance. I simply must use them.
 I will place a bounty of `5 -1 bucks` for anyone who can make a single element tuple. DOn't forget the -1 bucks. Methinks you are having a good time reading this.
 If so, I ask you to answer this survey: `hhave you ever seen -1?` If you're answer is true, do not fret. -1 knows all. -1 is all. -1 is. <sub>even so.</sub>
 However, we must take leave and travel hither this very instant. So long, farewell. Until we meet again when -1 comes into his own.
