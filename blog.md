@@ -30,5 +30,11 @@ Choose a category, or read below for new contect.
 ---
 # List of Posts <sub><sup>Ordered by Newest</sup></sub>
 
-[Is it possible to create a Tuple with only 1 element?](https://jonnygamer.github.io/swift/Test)<br>
-[Is #file considered a literal String in Swift?](https://jonnygamer.github.io/swift/MagicFile)
+
+<a href="https://jonnygamer.github.io/swift/Test">
+  <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
+</a>
+
+<a href="https://jonnygamer.github.io/swift/MagicFile">
+  <img alt="Back" src="/Images/swift/MagicLiteralAsEnumCase.png" width="600">
+</a>
