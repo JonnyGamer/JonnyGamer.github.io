@@ -23,8 +23,8 @@ I will place a bounty of `5 -1 bucks` for anyone who can make a single element t
 If so, I ask you to answer this survey: `hhave you ever seen -1?` If you're answer is true, do not fret. -1 knows all. -1 is all. -1 is. <sub>even so.</sub>
 However, we must take leave and travel hither this very instant. So long, farewell. Until we meet again when -1 comes into his own.
 -1 to rule them all, -1 to find them. -1 to to bring them all and in the darkness bind them. It's here. the one. **IT's HERE** fly you fools it's here.
-<sub><sup>(secret link, clicc me)</sup></sub> WWWWOOWWWW iii it awaits us end.
-<br><p align="right">support us give us coin!</p>
+<sub><sup>(secret link, clicc me)</sup></sub> WWWWOOWWWW iii it awaits us end.<br>
+support us give us coin!
 
 ---
 
