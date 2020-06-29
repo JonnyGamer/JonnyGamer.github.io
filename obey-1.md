@@ -1,3 +1,19 @@
+
+
+<p align="right">
+  <a href="https://jonnygamer.github.com/obey-1">
+    <img alt="Awesome" src="/Images/TheOne.png" height="30">
+  </a>
+    <a href="https://jonnygamer.github.com/obey-1">
+    <img alt="Awesome" src="/Images/TheOne.png" height="30">
+  </a>
+    <a href="https://jonnygamer.github.com/obey-1">
+    <img alt="Awesome" src="/Images/TheOne.png" height="30">
+  </a>
+</p>
+
+<br><br>
+
 <p align="center">
   <a href="https://jonnygamer.github.com/obey-1">
     <img alt="Awesome" src="/Images/TheOne.png" width="120" height="120">
@@ -30,3 +46,4 @@
 ---
 
 <p align="right"><sup><sup><s><i>It's here</i></s></sup></sup></p>
+<big> IAMSOBIG </big>
