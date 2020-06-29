@@ -31,7 +31,7 @@ Check out the latest in tech, math, and puzzles.<br>
 Choose a category, or read below for new contect.
 
 ---
-**Ordered by Newest**
+# List of Posts <sub><sup>Ordered by Newest</sup></sub>
 
 [Is it possible to create a Tuple with only 1 element?](https://jonnygamer.github.io/swift/Test)<br>
 [Is #file considered a literal String in Swift?](https://jonnygamer.github.io/swift/MagicFile)
