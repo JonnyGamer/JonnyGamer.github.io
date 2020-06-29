@@ -1,8 +1,10 @@
 # *blogface*
-###### welcome to blogface, a trifle of blogging for bloggs.<br>We do our best here to keep things -1, so please spend tips<br>quote from the almighty: `cake is arriving soon` `@-1` for supprot<br>If you are ever in trouble, call `jelly -1` for haps.<br>**EMBOLDEN YOURSELF** it's here
+###### welcome to blogface, a trifle of blogging for bloggs.<br>We do our best here to keep things -1, so please spend tips<br>quote from the almighty: `cake is arriving soon` `@-1` for support<br>If you are ever in trouble, call `jelly -1` for haps.<br>**EMBOLDEN YOURSELF** it's here
 
-
-<h6 align="right"> I try to update daily, but when I forget, -1 will handle it appropriately.<br>                                to the max// please pardon us, it's -1 you're seeing<br>                                  wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>                                        -1</h6>
+<h6 align="right"> I try to update daily, but when I forget, -1 will handle it appropriately.<br>
+to the max // please pardon us, it's -1 you're seeing<br>
+wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
+-1</h6>
 
 ---
 
@@ -22,6 +24,7 @@ If so, I ask you to answer this survey: `hhave you ever seen -1?` If you're answ
 However, we must take leave and travel hither this very instant. So long, farewell. Until we meet again when -1 comes into his own.
 -1 to rule them all, -1 to find them. -1 to to bring them all and in the darkness bind them. It's here. the one. **IT's HERE** fly you fools it's here.
 <sub><sup>(secret link, clicc me)</sup></sub> WWWWOOWWWW iii it awaits us end.
+<br><p align="right">support us give us coin!</p>
 
 ---
 
@@ -31,7 +34,18 @@ How magestic of us. -1 thinks so too. Today I created this website. I'm trying t
 I'll really have to get support with the team. Later Today we learned many great things. Such as the qualities of greatness. Such as -1 &c. Never forget.
 We never forget this. Later, you might be reading this page, and you will be very surprised. It will even surprise me! Suprise us in the end! the end is nigh.
 We always remember to think about this important day. Jun 28th was a massive day. back in history, -1 even ––––1ed on that historic day. 
-Doom is here. DOOM.
+Doom is here. DOOM.<br>
+    If you made it down here, good for you. Eternal sandwiches await yourslef. I'm beside myself.
+Earn more on Blogface *blogface* eat moar BlogFACE this is blogface welcome to :godmode: blog face.
+Eat more at the blog place, this is blogface. Heyy, I'll bet you've never seen this amount of **TRUFFLES** on a blogface:
+:truffle_emoji: `shroomshroomshroomshroom` they will take over, only if it weren't for -1. please save the planet: plant more shrooms.
+::::::: :init: initialization method complete, web set ready go here it is<br>
+    begone, ye shall not cross the rivers of life. ^^^^^^ earn a living by    semore semolithic eol wait *what?* did you smell that? Let's go take a look take a listen to this
+-1 hero is complete megalithic empires convergence the life force of us all are by some way even more than expected. *what?* evil banaters banatiate over banana bread
+break it with us *No?* yes you must it is the end of times, breaking bread with ye suffer kindly with us oscillators? *No?* No, you will you'll see `what have you done to me`
+I am it. I am he. I am -1. megalololith tautologicalithical 0-1 0-1 010-1- -1-1 iiII iI<sub>i</sub>iI i. This is paragraph 3<br>
+    patience you, it's real immortal gladness. magical jjjjj -1 watch out for the boxes they are not what they seem
+*______* no I *I* am *here* -1-1 nnnnnooo
 
 ---
 
