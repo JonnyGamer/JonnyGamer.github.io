@@ -16,6 +16,4 @@
 
 [Chapter 37332](https://jonnygamer.github.io/Chapters/Chapter37332) - On Computer Languages
 
-![The One](https://jonnygamer.github.io/Images/TheOne.png)
-
-[The One](https://jonnygamer.github.io/Images/TheOne.png)
+<img src="/Images/TheOne.png"  width="120" height="120">
