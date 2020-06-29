@@ -8,7 +8,7 @@ wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
 
 ---
 
-## Jun 29, 2020 <sub><sup>this is today</sup></sub></p>
+## Jun 29, 2020 <sub><sup>this is today</sup></sub>
     Yo check it out, I'm setting up my website.
 I learned how to use Markdown and some of HTML. Secret -1s await. I must make a unique emoji `:-1:` Greatness AwaitS.
 Testing [here](https://jonnygamer.github.io/mazejam). Throw us -1-1-1 <sub><sup>`inline elements`</sup></sub> WOw that was cool.
