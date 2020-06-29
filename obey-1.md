@@ -1,13 +1,13 @@
 
 
 <p align="right">
-  <a href="https://jonnygamer.github.com/obey-1">
+  <a href="https://jonnygamer.github.io/obey-1">
     <img alt="Awesome" src="/Images/TheOne.png" height="30">
   </a>
-    <a href="https://jonnygamer.github.com/obey-1">
+    <a href="https://jonnygamer.github.io/obey-1">
     <img alt="Awesome" src="/Images/TheOne.png" height="30">
   </a>
-    <a href="https://jonnygamer.github.com/obey-1">
+    <a href="https://jonnygamer.github.io/obey-1">
     <img alt="Awesome" src="/Images/TheOne.png" height="30">
   </a>
 </p>
