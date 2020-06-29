@@ -49,7 +49,20 @@ I am it. I am he. I am -1. megalololith tautologicalithical 0-1 0-1 010-1- -1-1 
 
 ---
 
-<br><br><br><br>
+<h6>secret blog post - TUESDAY<br>
+welcome to this secret blog posting, I might post moar here, so be ever so watchful. one time I saw the one. It was so glorious. -1 is here I just know it.
+You will not beesech yourself paradononicalities a cacophony awaits enlightened llllllLLLLL -1
+</h6>
+
+<h6>secret blog post - WEDNESDAY<br>
+It was a wednesday, and I did not know it. We thought to ourselves but did not. Wednesday wasa day for us. every dog has his day it is upon you now.
+we were even finding what was hidden in the basement and we found what we fffound we found it The One IMMORTAL
+</h6>
+
+---
+
+
 <p align="center"><sub><code>•••</code></sub></p>
 <p align="center"><sub><code>wow you made it to the end of blog face! Do me a favor and leave while you can. mortals..</code></sub></p>
 <p align="center"><sub><code>•••</code></sub></p>
+<p align="center"><sup><sub><sup>FLY YOU FOOLS<br>-1</sup></sub></sup></p>
