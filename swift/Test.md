@@ -4,8 +4,6 @@
   </a>
 </p>
 
-How can I create a tuple with only 1 element?
-
 # The Question
 If possible, how can I create a tuple with only 1 element?<br>
 
