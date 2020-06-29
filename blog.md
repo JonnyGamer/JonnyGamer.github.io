@@ -9,15 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://jonnygamer.github.io/swift">
-    <img alt="Swift" src="/Images/Swift.jpg" width="200">
-  </a>
+  <img alt="Swift" src="/Images/Swift.jpg" width="200">
 </p>
 
 <p align="center">
-  <a href="https://jonnygamer.github.io/math">
-    <img alt="Math" src="/Images/Math.jpg" width="200">
-  </a>
+  <img alt="Math" src="/Images/Math.jpg" width="200">
 </p>
 
 <p align="center">
@@ -35,6 +31,7 @@ Check out the latest in tech, math, and puzzles.<br>
 Choose a category, or read below for new contect.
 
 ---
+**Ordered by Newest**
 
-# Jun 29, 2020
-Yo! Just set up the website! More details coming soon!
+[Is it possible to create a Tuple with only 1 element?](https://jonnygamer.github.io/swift/Test)<br>
+[Is #file considered a literal String in Swift?](https://jonnygamer.github.io/swift/MagicFile)
