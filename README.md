@@ -1,4 +1,4 @@
-# JonnyGamer.github.io
+# JonnyGamer.github.io :)
 
 Well well well
 Are you here to make the change??
