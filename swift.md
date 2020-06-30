@@ -6,7 +6,7 @@
 
 # Swift Blog
 
-<a href="https://jonnygamer.github.io/swift/Test">
+<a href="https://jonnygamer.github.io/swift/TupleWithOneElement">
   <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
 </a>
 
