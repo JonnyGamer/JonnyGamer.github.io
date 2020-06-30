@@ -1,8 +1,12 @@
-<p align="left">
-  <a href="https://jonnygamer.github.io/swift">
-    <img alt="Back" src="/Images/Back.jpg" width="120">
-  </a>
-</p>
+<a href="https://jonnygamer.github.io/swift">
+  <img alt="Back" src="/Images/Back.jpg" width="120">
+</a><br>
+
+<a href="https://jonnygamer.github.io/swift">
+  <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
+</a><br>
+
+---
 
 # The Question
 If possible, how can I create a tuple with only 1 element?<br>
