@@ -3,7 +3,7 @@ You found it!
 
 <h6 align="center">Eh? What's this??</h6>
 <p align="center">
-  <a href="https://jonnygamer.github.io/obey-1">
+  <a href="https://jonp.io/obey-1">
     <img alt="Awesome" src="/Images/TheOne.png" width="30" height="30">
   </a>
 </p>
