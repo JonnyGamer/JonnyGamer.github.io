@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://jonnygamer.github.io">
+  <a href="https://jonp.io">
     <img alt="Back Home" src="/Images/Backhome.jpg" width="120">
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jonnygamer.github.io/swift">
+  <a href="https://jonp.io/swift">
     <img alt="Swift" src="/Images/Swift.jpg" width="200">
   </a>
 </p>
@@ -30,10 +30,10 @@ Choose a category, or look below for all the new contect.<br><br>
 # List of Posts <sub><sup>Ordered by Newest</sup></sub>
 
 
-<a href="https://jonnygamer.github.io/swift/TupleWithOneElement">
+<a href="https://jonp.io/swift/TupleWithOneElement">
   <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
 </a>
 
-<a href="https://jonnygamer.github.io/swift/MagicFile">
+<a href="https://jonp.io/swift/MagicFile">
   <img alt="Back" src="/Images/swift/MagicLiteralAsEnumCase.png" width="600">
 </a>
