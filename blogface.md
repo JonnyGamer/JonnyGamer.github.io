@@ -11,14 +11,14 @@ wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
 ## Jun 29, 2020 <sub><sup>this is today</sup></sub>
     Yo check it out, I'm setting up my website.
 I learned how to use Markdown and some of HTML. Secret -1s await. I must make a unique emoji `:-1:` Greatness AwaitS.
-Testing [here](https://jonnygamer.github.io/mazejam). Throw us -1-1-1 <sub><sup>`inline elements`</sup></sub> WOw that was cool.
+Testing [here](https://jonp.io/mazejam). Throw us -1-1-1 <sub><sup>`inline elements`</sup></sub> WOw that was cool.
 Check back with us in a couple weeks, it'll be much much better.
 Markdown has funny features here, but I can't seem to get a good font in html. \_\_ha\_\_ \_\_init\_\_. Where shall I put the dreaded Zero Width Character??
 I might make a copy/paste button for it. Or you can `Copy this ->​<-`. Now you have a friendly Zero Width Space. Ahahahaha I have you now!,,,,<br>
     I've been tabbed,, here marks the place where I can tab things. I know you really enjoy reading things such as these.
 Perfeccion (irrigardless of supposition) I have now been doing events. :trollface: panels
 <img alt="Awesome" src="/Images/TheOne.png" width="20" height="20"> have you ever heard the story of subnet the wise? You have? Very good of you.
-Today we will talk about [this](https//:jonnygamer.github.io/Test). Single element tuples are of utmost importance. I simply must use them.
+Today we will talk about [this](https//:jonp.io/Test). Single element tuples are of utmost importance. I simply must use them.
 I will place a bounty of `5 -1 bucks` for anyone who can make a single element tuple. DOn't forget the -1 bucks. Methinks you are having a good time reading this.
 If so, I ask you to answer this survey: `hhave you ever seen -1?` If you're answer is true, do not fret. -1 knows all. -1 is all. -1 is. <sub>even so.</sub>
 However, we must take leave and travel hither this very instant. So long, farewell. Until we meet again when -1 comes into his own.
