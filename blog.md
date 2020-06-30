@@ -30,7 +30,7 @@ Choose a category, or look below for all the new contect.<br><br>
 # List of Posts <sub><sup>Ordered by Newest</sup></sub>
 
 
-<a href="https://jonnygamer.github.io/swift/Test">
+<a href="https://jonnygamer.github.io/swift/TupleWithOneElement">
   <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
 </a>
 
