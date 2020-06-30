@@ -1,13 +1,16 @@
-<p align="left">
-  <a href="https://jonnygamer.github.io/swift">
-    <img alt="Back" src="/Images/Back.jpg" width="120">
-  </a>
-</p>
+<a href="https://jonnygamer.github.io/swift">
+  <img alt="Back" src="/Images/Back.jpg" width="120">
+</a><br>
 
+<a href="https://jonnygamer.github.io/swift">
+  <img alt="Back" src="/Images/swift/MagicLiteralAsEnumCase.png" width="600">
+</a><br>
 
-Bug **>** Swift **>** Enum **>** String Protocol
+---
 
-___
+**Bug > Swift > Enum > String Protocol**
+
+---
 
 I was attempting to create an enumeration in which all its elements were file names, and I stumbled across something interesting. Like so:
 
