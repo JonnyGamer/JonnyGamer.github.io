@@ -2,9 +2,7 @@
   <img alt="Back" src="/Images/Back.jpg" width="120">
 </a><br>
 
-<a href="https://jonnygamer.github.io/swift">
-  <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
-</a><br>
+<img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
 
 ---
 
