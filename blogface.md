@@ -78,7 +78,7 @@ it's has ffarrived -- help us -- I can't even `wait` up for me to play the game 
 
 <h6>secret blog post - THE FIRST<br>
 A couple of days back I heard that Star Wars 7, 8, and 9 are going to be 'NULL and VOID'. George Lucas is going to be hired back on to rewrite the new trilogy.
-His new one will be official canon. But the old 7,8,9 are going to be forever fandom. AHAHAHAHAHA -1-1-1
+His new one will be official canon. But the old 7,8,9 are going to be forever fandom fan fiction. AHAHAHAHAHA -1-1-1
 </h6>
 
 ---
