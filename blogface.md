@@ -8,6 +8,18 @@ wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
 
 ---
 
+## Jun 30, 2020 <sub><sup>I almost forgot</sup></sub>
+    Hhhey, how do you like this. I am writing a blogface blog article for the day for my readers. I hope you enjoy reading such things as these.
+Because I spend good time and effort into making crazy stuff like this. I mean, how dare you say that to me. I can't even. I should just stop now.
+Insensitivities. Yeah maybe I'll go. Yo0 all don't see quality hwen you sea it. I mene I hav the best quality oot there. I evn have bettr qualitlity than most.
+When I go and check up on certain activities, I am usually most always deeply disappointed. Maybe I'll try out pointers. Then I can have acces to et al!
+You'll see and you'll be so sorry you'll be. I am here. I know beyytter then most will wish. But don't say I never warned you because I didn't even warn.
+I mean it's throwing all sorts of crazy errors whyyy `whyeven` someday, I will be honored to share with you the grand story of how -1 came to be.
+But that will be somother time. I cannot even begin to comprehend it. You won't even get half of all of it.<br>
+    They know. they know. they know. they know. they know. they know. THhey KnwowW. They knoW. THEY ALL KNOW> THEY ALL THKNW........... <sup>thy self they know</sup> they
+know and you'll see. One day they will win them all. they know. they. they know. `I figured it all out :see:` they KNOW. I will show they selve this immortal state.
+wonk yeht. wonk yeht. wonk yeht. .they know .they know . IT;s here ;;; whait and see what it has becomel advanced. Ths is even egetting to me. TOday I will writing the biggets blogg ever even and a half.. WOW this is insanely senile. <sub><sub>I WILL WINN</sub></sup> sorry for the excuses I E
+
 ## Jun 29, 2020 <sub><sup>this is today</sup></sub>
     Yo check it out, I'm setting up my website.
 I learned how to use Markdown and some of HTML. Secret -1s await. I must make a unique emoji `:-1:` Greatness AwaitS.
@@ -57,6 +69,11 @@ You will not beesech yourself paradononicalities a cacophony awaits enlightened 
 <h6>secret blog post - WEDNESDAY<br>
 It was a wednesday, and I did not know it. We thought to ourselves but did not. Wednesday wasa day for us. every dog has his day it is upon you now.
 we were even finding what was hidden in the basement and we found what we fffound we found it The One IMMORTAL
+</h6>
+
+<h6>secret blog post - WEDNESDAYY<br>
+OWOW I had even more fun writing Wednesday than i did wednesdayy, you'll see am I travelling forward or backward in time. I can't remember. All i know is that it's here.
+it's has ffarrived -- help us -- I can't even `wait` up for me to play the game -- don't go -- -- come back -
 </h6>
 
 ---
