@@ -8,6 +8,24 @@ wow, I never knew about this.. <sub><sup>QUALITY</sup></sub><br>
 
 ---
 
+## July 1, 2020 <sub><sup>I didn't notice</sup></sub>
+    Wow, I cannot belive it's July already/ / / I'm so glad we made it -1. I wonder when we you will see this?? Respond in the link below
+One time I was reading through this book, see, and I saw it said that there are only 3 of them at all. I was secretly suprised, but I did not show it.
+This was truly an eye opening experience, but I will not speake of it right now. Please read more about it in the link below. But then I go wondering,,
+why is this happening to me?? I mean, why does this always happen?? I feel like I'm being targetted, I feel like it's very very true. You'll see.
+However, I always have to remind myself<br>
+    Tuesday is on thursday<br>
+    thoursdayy in Wednesday<br>
+    $whaaat ¼ is less than 44. ⁴ is greater than <sup><sup>⁴</sup></sup> WOW `even so` ☜ This is truly a sporatic event.
+Once there was a great ruler. It measured all that there was, and grasped opportunities those could not. They(s) are is(s) true. ```E``` ewow.
+÷DOn't forget my favorite symbol: 🃟 A perfect chharacter, we saw him the other day. I had a fleeting feeling for that forethought. Employee Number: 3.
+If they can type in the wright answer, that would be so much better. It could be the template was wrong, bbut we'll see. And wweell see the your explosive!!
+Ever greater than 1 is 2 is 4 YES it is so. I have thus decreed it is so enormous, you will not be able to percieve it's full enormosity. scaping esc.
+greatness has been improved as of yyesteryear, tautological acknowledgements have taken place. Thus it says as I have read and as I have written. You will not esc.
+escallative encapsulation encumbant eschatology. With or without, In or inout. SUpree. I have a feeling it will be more super than most.
+Rread about it in this upcoming linkler... [linkler](https://jonp.io)<br>
+<sup>truly you have never seen anything like this before or since</sup> No I have `!not`
+
 ## Jun 30, 2020 <sub><sup>I almost forgot</sup></sub>
     Hhhey, how do you like this. I am writing a blogface blog article for the day for my readers. I hope you enjoy reading such things as these.
 Because I spend good time and effort into making crazy stuff like this. I mean, how dare you say that to me. I can't even. I should just stop now.
