@@ -103,6 +103,22 @@ A couple of days back I heard that Star Wars 7, 8, and 9 are going to be 'NULL a
 His new one will be official canon. But the old 7,8,9 are going to be forever fandom fan fiction. AHAHAHAHAHA -1-1-1
 </h6>
 
+<h6>secret blog post - LATER THIS DAY<br>
+I've always wondered what it's gonna be like when I do one of these later in the day. I hear it's so great. I hope this gradulatory opportunity awaits.
+O I heard it is the `end` of CHOP? what about that city state?? hmm I didn't ever see it,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,<sup>,,,,,<sup>,,,,,,</sup></sup>
+</h6>
+
+<h6>secret blog post - LATER THIS YEAR<br>
+Later impacts have proven this to be true. Read it from top to bottom. This is how this sort of thing works. I bet you've noticed I've tricced you in this certain case.
+Uh uh um with us uh I don't know he's just inability to focus on that thing/ stop the future/ peaceful cold war. I'm beginning to get worried?
+</h6>
+
+<h6>secret blog post - WEDNESDAY OF ALL<br>
+Even if this is pirate or more,, you'll even see that it-could-be-so. wake up, get to work, there's all this I'm seeing//// earn a future in Immortality .
+ you'll see when you know, I'll know it when I see. Today is not wednesday it is: WEDNESDAY OF ALL,, and of highest utmost importance at that. th.
+</h6>
+
+
 ---
 
 
