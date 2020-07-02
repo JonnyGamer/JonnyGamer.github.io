@@ -26,6 +26,8 @@ escallative encapsulation encumbant eschatology. With or without, In or inout. S
 Rread about it in this upcoming linkler... [linkler](https://jonp.io)<br>
 <sup>truly you have never seen anything like this before or since</sup> No I have `!not`
 
+---
+
 ## Jun 30, 2020 <sub><sup>I almost forgot</sup></sub>
     Hhhey, how do you like this. I am writing a blogface blog article for the day for my readers. I hope you enjoy reading such things as these.
 Because I spend good time and effort into making crazy stuff like this. I mean, how dare you say that to me. I can't even. I should just stop now.
@@ -37,6 +39,8 @@ But that will be somother time. I cannot even begin to comprehend it. You won't 
     They know. they know. they know. they know. they know. they know. THhey KnwowW. They knoW. THEY ALL KNOW> THEY ALL THKNW........... <sup>thy self they know</sup> they
 know and you'll see. One day they will win them all. they know. they. they know. `I figured it all out :see:` they KNOW. I will show they selve this immortal state.
 wonk yeht. wonk yeht. wonk yeht. .they know .they know . IT;s here ;;; whait and see what it has becomel advanced. Ths is even egetting to me. TOday I will writing the biggets blogg ever even and a half.. WOW this is insanely senile. <sub><sub>I WILL WINN</sub></sup> sorry for the excuses I E
+
+---
 
 ## Jun 29, 2020 <sub><sup>this is today</sup></sub>
     Yo check it out, I'm setting up my website.
