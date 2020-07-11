@@ -1,3 +1,11 @@
+<a href="https://jonp.io/swift">
+  <img alt="Back" src="/Images/Back.jpg" width="120">
+</a><br>
+
+<img alt="Bypass Indirect Enum" src="/Images/swift/BypassIndirectEnum.png" width="600">
+
+---
+
 # Bypassing Indirect Enum
 
 ```swift
