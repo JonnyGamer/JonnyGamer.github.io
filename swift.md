@@ -6,6 +6,8 @@
 
 # Swift Blog
 
+[Bypassing Indirect Enum](https://jonp.io/swift/BypassingIndirectEnum)
+
 <a href="https://jonp.io/swift/TupleWithOneElement">
   <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
 </a>
