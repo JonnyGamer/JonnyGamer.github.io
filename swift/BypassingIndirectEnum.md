@@ -107,7 +107,7 @@ print(ha)
 
 Ha. Let's rid of those ugly `Optionals`
 
-```
+```swift
 struct Ha: This {}
 struct He: This {
    var foo: This
