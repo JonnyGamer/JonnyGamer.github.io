@@ -6,12 +6,14 @@
 
 # Swift Blog
 
-[Bypassing Indirect Enum](https://jonp.io/swift/BypassingIndirectEnum)
+<a href="https://jonp.io/swift/TupleWithOneElement">
+  <img alt="Bypassing Indirect Enum" src="/Images/swift/BypassingIndirectEnum.png" width="600">
+</a>
 
 <a href="https://jonp.io/swift/TupleWithOneElement">
-  <img alt="Back" src="/Images/swift/TupleWithOneElement.png" width="600">
+  <img alt="Tuple With One Element" src="/Images/swift/TupleWithOneElement.png" width="600">
 </a>
 
 <a href="https://jonp.io/swift/MagicFile">
-  <img alt="Back" src="/Images/swift/MagicLiteralAsEnumCase.png" width="600">
+  <img alt="Magic Literal As Enum Case" src="/Images/swift/MagicLiteralAsEnumCase.png" width="600">
 </a>
