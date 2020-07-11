@@ -6,7 +6,7 @@
 
 ---
 
-# Bypassing Indirect Enum
+# Bypass Indirect Enum
 
 ```swift
 indirect enum Foo { case bar(Foo), bas }
