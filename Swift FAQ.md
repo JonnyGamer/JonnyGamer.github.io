@@ -2,6 +2,33 @@
 
 I have created a list of Frequently Asked Questions about the Swift Master Class. If you have any questions that are not found here, or if you would like more details, feel free to email Jonathan here: jonathanrpappas@gmail.com
 
+# **Overview**
+- [In Person Meetings](https://jonp.io/Swift%20FAQ#in-person-meetings)
+   - [Where will we be meeting?](https://jonp.io/Swift%20FAQ#where-will-we-be-meeting)
+   - [What is the $100 materials fee?](https://jonp.io/Swift%20FAQ#what-is-the-100-materials-fee)
+   - [Can I take the iPad home?](https://github.com/JonnyGamer/JonnyGamer.github.io/blob/master/Swift%20FAQ#can-i-take-the-ipad-home)
+   - [Do I need to download anything on my own iPad for in person classes?](https://jonp.io/Swift%20FAQ#do-i-need-to-download-anything-on-my-own-ipad-for-in-person-classes)
+   - [What curriculum will you be using?](https://jonp.io/Swift%20FAQ#what-curriculum-will-you-be-using)
+   - [How can I get the curriculum on my own iPad?](https://jonp.io/Swift%20FAQ#curriculum-on-my-own-ipad)
+   - [Can I take the curriculum home?](https://jonp.io/Swift%20FAQ#can-i-take-the-curriculum-home)
+   - [What can I do during the week?](https://jonp.io/Swift%20FAQ#what-can-i-do-during-the-week)
+   - [Can I bring my MacBook?](https://jonp.io/Swift%20FAQ#can-i-bring-my-macbook)
+- [Online Meetings](https://jonp.io/Swift%20FAQ#online-meetings)
+   - [What iPad will I use?](https://jonp.io/Swift%20FAQ#what-ipad-will-i-use)
+   - [Do I need to download anything on my iPad](https://jonp.io/Swift%20FAQ#do-i-need-to-download-anything-on-my-own-ipad)
+   - [What is the price of these additional apps?](https://jonp.io/Swift%20FAQ#what-is-the-price-of-these-additional-apps)
+   - [Will there be any updates?](https://jonp.io/Swift%20FAQ#will-there-be-any-updates)
+- [iPad Questions](https://jonp.io/Swift%20FAQ#ipad-questions)
+   - [What iPad can I buy?](https://jonp.io/Swift%20FAQ#what-ipad-can-i-buy)
+   - [Where can I buy an iPad?](https://jonp.io/Swift%20FAQ#where-can-i-buy-an-ipad)
+   - [What is a GB? (Gigabyte)](https://jonp.io/Swift%20FAQ#what-is-a-gb-gigabyte)
+   - [How do I know if my iPad was manufactured in March 2016 or later?](https://jonp.io/Swift%20FAQ#how-do-i-know-if-my-ipad-was-manufactured-in-march-2016-or-later)
+   - [Why March 2016?](https://jonp.io/Swift%20FAQ#why-march-2016)
+   - [How do I know if I'm running iPad OS?](https://jonp.io/Swift%20FAQ#how-do-i-know-if-i-am-running-ipad-os)
+   - [How do I know if I have at least 16 GB of storage available?](https://jonp.io/Swift%20FAQ#how-do-i-know-if-i-have-at-least-16gb-of-sotrage-available)
+   - [How can I download iPad OS?](https://jonp.io/Swift%20FAQ#how-can-i-download-ipad-os)
+   - [Unable to Check for Update Error?](https://jonp.io/Swift%20FAQ#unable-to-check-for-update-error)
+
 ---
 <br>
 
@@ -139,6 +166,7 @@ If your iPad Model Name appears lower on this list, that means it is more powerf
 
 ---
 ### **Why March 2016?**
+March 2016 was a transition to a more powerful processing chip. All of these iPads will be able to run the latest `iPad OS` and possibly many future OS updates. All of these iPads *also* have the proper tech specs to run AR apps (Augmented Reality).
 
 ---
 
