@@ -1,6 +1,6 @@
 # **Swift Master Class FAQ**
 
-I have created a list of Frequently Asked Questions about the Swift Master Class. If you have any questions that are not found here, or if you would like more details, feel free to email Jonathan here: jonathanrpappas@gmail.com
+I have created a list of Frequently Asked Questions about the Swift Master Class. If you have any questions that are not found here, or if you would like more details, feel free to email Jonathan here: [jonathanrpappas@gmail.com](mailto:jonathanrpappas@gmail.com)
 
 # **Overview**
 - [In Person Meetings](https://jonp.io/Swift-FAQ#in-person-meetings)
@@ -35,7 +35,7 @@ I have created a list of Frequently Asked Questions about the Swift Master Class
 # **In Person Meetings**
 
 ### **Where will we be meeting?**
-If possible, we will be meetings at Foxworthy Baptist Church. If Foxworthy Baptist Church is unavaiable, and you still feel comfortable to meet in-person, you can email me.
+If possible, we will be meetings at Foxworthy Baptist Church. If Foxworthy Baptist Church is unavaiable, and you still feel comfortable to meet in-person, you can [email me](mailto:jonathanrpappas@gmail.com).
 
 ---
 ### **What is the $100 materials fee?**
@@ -121,7 +121,8 @@ Recommendations if you're buying a new iPad:
 - Cellular Data is *not* required.
 - Apple Care is a great insurance for your new iPad
 
-**Used iPads:** You can also buy used iPads off of eBay. If you would like help doing research, you can email me. Be very carefull, though.
+**Used iPads:** You can also buy used iPads off of eBay. If you would like help doing research, you can 
+me. Be very carefull, though.
 
 Recommendations if you're buying a used iPad:
 - Don't get one with a cracked screen. It's difficult to replace.
@@ -218,4 +219,4 @@ Solution 2:
 2. Slide the 'Power Off' Symbol.
 3. Wait, then relaunch your iPad.
 4. Try once more in *How do I know if I am running iPad OS?*
-5. If this still shows the same error, email me.
+5. If this still shows the same error, [email me](mailto:jonathanrpappas@gmail.com).
