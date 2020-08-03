@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "super-playground-runner",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/ULJu7sy1xgIKWroKHhgUQW0Y9wZmCF6cw5kvZ0Ogc8kC0jJFSA",
-  "gitHubUrl": "https://github.com/JonnyGamer/JonnyGamer.github.io",
-  "workFolder": "_work"
-}
