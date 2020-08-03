@@ -1,3 +1,6 @@
 [submodule "playground"]
 	path = playground
 	url = https://github.com/JonnyGamer/swift-playground
+[submodule "online-playground"]
+	path = online-playground
+	url = https://github.com/JonnyGamer/OnlineSwiftPlayground
