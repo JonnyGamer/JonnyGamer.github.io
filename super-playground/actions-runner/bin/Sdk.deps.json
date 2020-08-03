@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1/osx-x64",
+    "name": ".NETCoreApp,Version=v3.1/linux-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/osx-x64": {
+    ".NETCoreApp,Version=v3.1/linux-x64": {
       "Sdk/2.267.1": {
         "dependencies": {
           "Microsoft.AspNet.WebApi.Client": "5.2.4",

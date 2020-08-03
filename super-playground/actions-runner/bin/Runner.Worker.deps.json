@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1/osx-x64",
+    "name": ".NETCoreApp,Version=v3.1/linux-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/osx-x64": {
+    ".NETCoreApp,Version=v3.1/linux-x64": {
       "Runner.Worker/2.267.1": {
         "dependencies": {
           "Runner.Common": "1.0.0",
@@ -16,13 +16,13 @@
           "System.ServiceProcess.ServiceController": "4.4.0",
           "System.Threading.Channels": "4.5.0",
           "YamlDotNet.Signed": "5.3.0",
-          "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64": "3.1.0"
+          "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64": "3.1.0"
         },
         "runtime": {
           "Runner.Worker.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/3.1.0": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64/3.1.0": {
         "runtime": {
           "Microsoft.CSharp.dll": {
             "assemblyVersion": "4.0.5.0",
@@ -685,68 +685,68 @@
           "SOS_README.md": {
             "fileVersion": "0.0.0.0"
           },
-          "System.Globalization.Native.dylib": {
+          "System.Globalization.Native.so": {
             "fileVersion": "0.0.0.0"
           },
           "System.IO.Compression.Native.a": {
             "fileVersion": "0.0.0.0"
           },
-          "System.IO.Compression.Native.dylib": {
+          "System.IO.Compression.Native.so": {
             "fileVersion": "0.0.0.0"
           },
           "System.Native.a": {
             "fileVersion": "0.0.0.0"
           },
-          "System.Native.dylib": {
+          "System.Native.so": {
             "fileVersion": "0.0.0.0"
           },
           "System.Net.Http.Native.a": {
             "fileVersion": "0.0.0.0"
           },
-          "System.Net.Http.Native.dylib": {
+          "System.Net.Http.Native.so": {
             "fileVersion": "0.0.0.0"
           },
           "System.Net.Security.Native.a": {
             "fileVersion": "0.0.0.0"
           },
-          "System.Net.Security.Native.dylib": {
+          "System.Net.Security.Native.so": {
             "fileVersion": "0.0.0.0"
           },
           "System.Private.CoreLib.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.700.19.56402"
           },
-          "System.Security.Cryptography.Native.Apple.a": {
-            "fileVersion": "0.0.0.0"
-          },
-          "System.Security.Cryptography.Native.Apple.dylib": {
-            "fileVersion": "0.0.0.0"
-          },
           "System.Security.Cryptography.Native.OpenSsl.a": {
             "fileVersion": "0.0.0.0"
           },
-          "System.Security.Cryptography.Native.OpenSsl.dylib": {
+          "System.Security.Cryptography.Native.OpenSsl.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libclrjit.dylib": {
+          "createdump": {
             "fileVersion": "0.0.0.0"
           },
-          "libcoreclr.dylib": {
+          "libclrjit.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libdbgshim.dylib": {
+          "libcoreclr.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libhostfxr.dylib": {
+          "libcoreclrtraceptprovider.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libhostpolicy.dylib": {
+          "libdbgshim.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libmscordaccore.dylib": {
+          "libhostfxr.so": {
             "fileVersion": "0.0.0.0"
           },
-          "libmscordbi.dylib": {
+          "libhostpolicy.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmscordaccore.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmscordbi.so": {
             "fileVersion": "0.0.0.0"
           }
         }
@@ -1883,7 +1883,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/3.1.0": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64/3.1.0": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

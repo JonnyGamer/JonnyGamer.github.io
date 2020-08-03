@@ -12,6 +12,7 @@
                  'enable_pgo_generate': 'false',
                  'enable_pgo_use': 'false',
                  'force_dynamic_crt': 0,
+                 'gas_version': '2.27',
                  'host_arch': 'x64',
                  'icu_data_in': '../../deps/icu-small/source/data/in/icudt64l.dat',
                  'icu_endianness': 'l',
@@ -43,7 +44,7 @@
                  'node_tag': '',
                  'node_target_type': 'executable',
                  'node_use_bundled_v8': 'true',
-                 'node_use_dtrace': 'true',
+                 'node_use_dtrace': 'false',
                  'node_use_etw': 'false',
                  'node_use_large_pages': 'false',
                  'node_use_large_pages_script_lld': 'false',
@@ -54,7 +55,7 @@
                  'node_without_node_options': 'false',
                  'openssl_fips': '',
                  'openssl_is_fips': 'false',
-                 'shlib_suffix': '72.dylib',
+                 'shlib_suffix': 'so.72',
                  'target_arch': 'x64',
                  'v8_enable_gdbjit': 0,
                  'v8_enable_i18n_support': 1,
@@ -66,5 +67,4 @@
                  'v8_trace_maps': 0,
                  'v8_use_siphash': 1,
                  'v8_use_snapshot': 1,
-                 'want_separate_host_toolset': 0,
-                 'xcode_version': '8.0'}}
+                 'want_separate_host_toolset': 0}}
