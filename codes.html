@@ -86,38 +86,8 @@
 
 import Foundation
 
-// SE-0249: Key Path Expressions as Functions
-
-struct User {
-  var id: Int
-}
-
-let user1 = User(id: 1)
-let user2 = User(id: 2)
-
-let users = [User(id: 1), User(id: 2)]
-print("SE-0249: Key Path Expressions as Functions")
-print(#"users.map(\.id) => \#(users.map(\.id))"#) // => [1, 2]
-// Swift 5.1.x `ambiguous reference to member 'map'`
-
-
-// SE-0253: Callable values of user-defined nominal types
-
-/// Linear function
-struct Linear {
-  var a: Double
-  var b: Double
-
-  func callAsFunction(_ x: Double) -> Double {
-    a * x + b
-  }
-}
-
-let f = Linear(a: 2, b: 3) // => 2x + 3
-print("\nSE-0253: Callable values of user-defined nominal types")
-let y = f(5)
-print("f(5) = \(y)")
-// Swift 5.1.x `error: cannot call value of non-function type 'Linear'`
+// "Welcome to Swift Master Class!"
+print("foo")
 
 </xmp>
 </pre>
@@ -147,13 +117,13 @@ print("f(5) = \(y)")
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <script src="ace/ace.js"></script>
-    <script src="ace/ext-language_tools.js"></script>
+    <script src="playground/ace/ace.js"></script>
+    <script src="playground/ace/ext-language_tools.js"></script>
     <script type="text/javascript">
-      ace.require("ace/ext/language_tools");
+      ace.require("playground/ace/ext/language_tools");
       const editor = ace.edit("editor");
-      editor.setTheme("ace/theme/xcode");
-      editor.session.setMode("ace/mode/swift");
+      editor.setTheme("playground/ace/theme/xcode");
+      editor.session.setMode("playground/ace/mode/swift");
       editor.$blockScrolling = Infinity
       editor.setOptions({
         useSoftTabs: true,
@@ -173,8 +143,8 @@ print("f(5) = \(y)")
       const column = editor.session.getLine(row).length
       editor.gotoLine(row + 1, column)
       const resultsEditor = ace.edit("results-editor");
-      resultsEditor.setTheme("ace/theme/terminal");
-      resultsEditor.session.setMode("ace/mode/text");
+      resultsEditor.setTheme("playground/ace/theme/terminal");
+      resultsEditor.session.setMode("playground/ace/mode/text");
       resultsEditor.$blockScrolling = Infinity
       resultsEditor.setOptions({
         readOnly: true,
@@ -202,7 +172,7 @@ print("f(5) = \(y)")
           toolchain_version: $("#versionSelect").val().replace('/', '_'),
           code: code
         };
-        $.post('/run', json, function(data, error, xhr) {
+        $.post('/playground/run', json, function(data, error, xhr) {
           resultsEditor.setValue(data.version + data.errors + data.output);
           resultsEditor.clearSelection();
           clearInterval(intid);
