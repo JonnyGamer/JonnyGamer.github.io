@@ -2,6 +2,9 @@ ace.define("swift/master-class/ace/theme-xcode.js",["require","exports","module"
                                                                                           var r=e("../lib/dom");
                                                                                           console.log(r);
                                                                                           console.log(e("https://swift-playground.kishikawakatsumi.com/lib/dom"))
+                        console.log(e("https://swift-playground.kishikawakatsumi.com/static/lib/dom"))
+                                                                                                                                        console.log(e("https://swift-playground.kishikawakatsumi.com/static/ace/lib/dom"))
+                                                                                                                                                                                                                                                        console.log(e("https://swift-playground.kishikawakatsumi.com/ace/lib/dom"))
                                                                                           r.importCssString(t.cssText,t.cssClass)});
                 (function() {
                     console.log("fooo")
