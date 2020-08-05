@@ -191,8 +191,8 @@
     <script type="text/javascript">
       ace.require("https://swift-playground.kishikawakatsumi.com/ace/ext-language_tools.js");
       const editor = ace.edit("editor");
-      editor.setTheme("https://swift-playground.kishikawakatsumi.com/ace/theme-xcode.js");
-      editor.session.setMode("https://swift-playground.kishikawakatsumi.com/ace/mode-swift.js");
+      editor.setTheme("theme-xcode");
+      editor.session.setMode("mode-swift");
       editor.$blockScrolling = Infinity
       editor.setOptions({
         useSoftTabs: true,
@@ -213,8 +213,8 @@
       editor.gotoLine(row + 1, column)
 
       const resultsEditor = ace.edit("results-editor");
-      resultsEditor.setTheme("https://swift-playground.kishikawakatsumi.com/ace/theme-terminal.js");
-      resultsEditor.session.setMode("https://swift-playground.kishikawakatsumi.com/ace/mode-text.js");
+      resultsEditor.setTheme("theme-terminal");
+      resultsEditor.session.setMode("mode-text");
       resultsEditor.$blockScrolling = Infinity
       resultsEditor.setOptions({
         readOnly: true,
