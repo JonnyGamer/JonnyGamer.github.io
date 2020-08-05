@@ -4,6 +4,7 @@ ace.define("ace/theme/xcode",["require","exports","module","ace/lib/dom"],functi
                                                                                           console.log(e("https://swift-playground.kishikawakatsumi.com/lib.dom"))
                                                                                           r.importCssString(t.cssText,t.cssClass)});
                 (function() {
+                    console.log("fooo")
                     ace.require(["ace/theme/xcode"], function(m) {
                         console.log("baro")
                         if (typeof module == "object" && typeof exports == "object" && module) {
