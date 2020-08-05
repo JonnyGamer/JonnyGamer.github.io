@@ -28,6 +28,7 @@ ace.define("swift/master-class/ace/theme-xcode.js",["require","exports","module"
   r.importCssString(t.cssText,t.cssClass)});
                 (function() {
                     console.log("foo");
+                     console.log("bar");
                     ace.require(["swift/master-class/ace/theme-xcode.js"], function(m) {
                         if (typeof module == "object" && typeof exports == "object" && module) {
                             module.exports = m;
