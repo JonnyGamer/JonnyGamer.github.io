@@ -166,14 +166,45 @@
     <div class="container-fluid" style="padding-right: 0; padding-left: 0; padding-bottom: 15px;">
       <div class="row no-gutters">
         <div class="col-md-6">
-          <pre id="editor" class=" ace_editor ace-xcode" style="font-family: menlo; font-size: 11pt;">
-          <div style="position: absolute;"></div>
-          <textarea class="ace_text-input" wrap="off" autocorrect="off" autocapitalize="off" spellcheck="false" style="opacity: 0; left: 180.218px; height: 17px; width: 8.82611px; top: 0px;"></textarea>
-          <div class="ace_gutter" aria-hidden="true">
-          <div class="ace_layer ace_gutter-layer" style="margin-top: 0px; height: 634px; width: 35px;">
-          <div class="ace_gutter-cell " style="height: 17px;">
-          // Welcome to Swift Master Class!!
-          </div></div></div></textarea></div></pre>
+          <pre id="editor"><xmp>import Foundation
+
+import Foundation
+
+// SE-0249: Key Path Expressions as Functions
+
+struct User {
+  var id: Int
+}
+
+let user1 = User(id: 1)
+let user2 = User(id: 2)
+
+let users = [User(id: 1), User(id: 2)]
+print("SE-0249: Key Path Expressions as Functions")
+print(#"users.map(\.id) => \#(users.map(\.id))"#) // => [1, 2]
+// Swift 5.1.x `ambiguous reference to member 'map'`
+
+
+// SE-0253: Callable values of user-defined nominal types
+
+/// Linear function
+struct Linear {
+  var a: Double
+  var b: Double
+
+  func callAsFunction(_ x: Double) -> Double {
+    a * x + b
+  }
+}
+
+let f = Linear(a: 2, b: 3) // => 2x + 3
+print("\nSE-0253: Callable values of user-defined nominal types")
+let y = f(5)
+print("f(5) = \(y)")
+// Swift 5.1.x `error: cannot call value of non-function type 'Linear'`
+
+</xmp>
+</pre>
         </div>
         <div class="col-md-6">
           <pre id="results-editor" class=" ace_editor ace-terminal-theme ace_dark" style="font-family: menlo; font-size: 11pt;"><div style="position: absolute;"></div><textarea class="ace_text-input" wrap="off" autocorrect="off" autocapitalize="off" spellcheck="false" readonly="" style="opacity: 0; left: 4px; height: 17px; width: 8.82611px; top: 51px;"></textarea><div class="ace_gutter" aria-hidden="true" style="display: none;"><div class="ace_layer ace_gutter-layer ace_folding-enabled" style="margin-top: 0px; height: 634px; width: 42px;"><div class="ace_gutter-cell " style="height: 17px;">1</div></div><div class="ace_gutter-active-line" style="top: 51px; height: 17px;"></div></div><div class="ace_scroller" style="left: 0px; right: 0px; bottom: 0px;"><div class="ace_content" style="margin-top: 0px; width: 359px; height: 634px; margin-left: 0px;"><div class="ace_layer ace_print-margin-layer"><div class="ace_print-margin" style="left: 710px; visibility: hidden;"></div></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_text-layer" style="padding: 0px 4px;"><div class="ace_line" style="height:17px">swift-5.2-RELEASE</div><div class="ace_line" style="height:17px">0</div><div class="ace_line" style="height:17px">    foo</div><div class="ace_line" style="height:17px"></div></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_cursor-layer ace_hidden-cursors"><div class="ace_cursor" style="left: 4px; top: 51px; width: 8.82611px; height: 17px;"></div></div></div></div><div class="ace_scrollbar ace_scrollbar-v" style="display: none; width: 20px; bottom: 0px;"><div class="ace_scrollbar-inner" style="width: 20px; height: 68px;"></div></div><div class="ace_scrollbar ace_scrollbar-h" style="height: 20px; left: 0px; right: 0px; display: none;"><div class="ace_scrollbar-inner" style="height: 20px; width: 359px;"></div></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: hidden;"><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;"></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; overflow: visible;">Foo</div></div></pre>
