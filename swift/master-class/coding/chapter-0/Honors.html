@@ -383,7 +383,7 @@ print("Huzzah")
           toolchain_version: $("#versionSelect").val().replace('/', '_'),
           code: code
         };
-        $.post('/run', params, (data, error, xhr) => {
+        $.post('https://swiftfiddle.com/run', params, (data, error, xhr) => {
           resultsEditor.setValue(data.version + data.errors + data.output);
           resultsEditor.clearSelection();
           clearInterval(intid);
