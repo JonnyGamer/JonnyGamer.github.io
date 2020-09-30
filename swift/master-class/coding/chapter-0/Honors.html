@@ -349,7 +349,7 @@ print("Foo bar!")
         }
       };
       langTools.addCompleter(completer);
-      $.post('/request/initialize', { session: sessionId, text: editor.getValue() }, (data, error, xhr) => {
+      $.post('https://swiftfiddle.com/request/initialize', { session: sessionId, text: editor.getValue() }, (data, error, xhr) => {
         $(window).on('beforeunload', (e) => {
           $.post('/notification/textDocument/didClose', { session: sessionId });
         });
