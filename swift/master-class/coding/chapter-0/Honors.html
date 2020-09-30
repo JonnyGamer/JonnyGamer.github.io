@@ -84,7 +84,7 @@
               <select class="form-control custom-select" id="versionSelect" >
                 <% versions.forEach((version) => { %>
                 <% var selected = ( version == default_version ) ? "selected" : ""; %>
-                <option value="<%= version %>" <%= selected %>><%= version.replace('_', '/') %></option>
+                <option value="<%= version %>" <%= selected %>>Swift 5.3</option>
                 <% }); %>
               </select>
             </div>
