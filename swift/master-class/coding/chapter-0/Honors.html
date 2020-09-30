@@ -82,10 +82,7 @@
           <form>
             <div class="form-group">
               <select class="form-control custom-select" id="versionSelect" >
-                <% versions.forEach((version) => { %>
-                <% var selected = ( version == default_version ) ? "selected" : ""; %>
-                <option value="<%= version %>" <%= selected %>>Swift 5.3</option>
-                <% }); %>
+                <option value="5.3" selected="">5.3</option>
               </select>
             </div>
           </form>
