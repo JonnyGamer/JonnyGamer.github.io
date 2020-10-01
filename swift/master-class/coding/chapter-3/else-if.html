@@ -93,19 +93,17 @@
       <div class="row no-gutters">
         <div class="col-md-6">
           <pre id="editor"><xmp>
-import Foundation
+let foo = [1, 2, 3].randomElement()!
+if foo == 1 {
+  print("Foo is \(foo)")
+} else if foo == 2 {
+  print("Hahahaha \(foo)")
+} else {
+  print("I think foo is now 3")
+}
 
-var numbers = [1, 2, 3, 4, 5]
+print("Run it again! It may change..")
 
-print(numbers.count)
-print(numbers.isEmpty)
-
-print(numbers.contains(5))
-print(numbers.randomElement()!)
-numbers.removeAll()
-print(numbers.isEmpty)
-
-// print(numbers.contaisn("ha!"))
 </xmp></pre>
         </div>
         <div class="col-md-6">
